@@ -289,10 +289,7 @@ mvn test -Dtest=RegisterTest,LoginTest
 
 ### Account Types
 
-Users can create multiple accounts with different types:
-- Savings
-- Checking
-- Credit
+Users can create multiple accounts with same account
 
 ### Transaction Management
 
@@ -300,23 +297,5 @@ Users can create multiple accounts with different types:
 - Track transaction dates and descriptions
 - View transaction history by account
 - Generate reports for specific date ranges
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions or support, please open an issue in the repository.
-
----
 
 Built with Spring Boot and React
